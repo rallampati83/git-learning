@@ -1,3 +1,4 @@
 hello world
 
-updated
+new branch test2
+merging example 
